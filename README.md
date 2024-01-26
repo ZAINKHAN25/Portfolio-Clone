@@ -1,35 +1,19 @@
 # Portfolio Website Using React Js
 
+![Screenshot](https://github.com/ZAINKHAN25/Portfolio-Clone/assets/121414309/dcd71acb-6d58-4f45-8a8d-cfa4f727449f)
 
-![Screenshot 2024-01-26 220448](https://github.com/ZAINKHAN25/Portfolio-Clone/assets/121414309/dcd71acb-6d58-4f45-8a8d-cfa4f727449f)
+This project is a personal portfolio website created using React Js, React-bootstrap for styling, and Animate.css for animations. It was developed based on a tutorial from YouTube.
 
-Built using:
+### Open Source Project
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+## Modifications and Firebase Integration
 
-In the Prtfolio-Clone, you can run:
+I have successfully completed the project by following a YouTube tutorial. However, there are a few modifications pending, specifically regarding the integration of a contact form using Firebase and Node.js.
 
-### `npm start`
+### Help Needed
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+If you would like to contribute or provide assistance, I need help connecting the "Contact Us" form to Firebase using Node.js. Your support in implementing this feature would be greatly appreciated.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Feel free to reach out if you have any suggestions or would like to collaborate on this improvement.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Thank you for your interest and potential contributions!
